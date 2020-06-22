@@ -22,9 +22,6 @@ class INTERVIEW:
                 print("Invalid Input!\n\n")
                 INTERVIEW();
     
-            if a==3:
-                return;
-    
             if a==2:
                 click_list() 
 
